@@ -1,0 +1,67 @@
+[top.cdie0.cbus_0] [info] info for xp 0000 x00 y00
+[top.cdie0.cbus_0] [info] port_rx_0000 pps:    13317|            0 cnt
+[top.cdie0.cbus_0] [info] port_rx_0005 pps:    13317|            0 cnt
+[top.cdie0.cbus_0] [info] port_tx_0000 pps:    13317|            0 cnt
+[top.cdie0.cbus_0] [info] port_tx_0004 pps:    13317|            0 cnt
+[top.cdie0.cbus_0] [info] que_0000 depth: (      1|      0|      0.2)|(      1|      0|      0.2)  port:0  dir:up
+[top.cdie0.cbus_0] [info] que_0001 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:1  dir:up
+[top.cdie0.cbus_0] [info] que_0002 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:2  dir:up
+[top.cdie0.cbus_0] [info] que_0003 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:3  dir:up
+[top.cdie0.cbus_0] [info] que_0004 depth: (      1|      0|      0.2)|(      1|      0|      0.2)  port:4  dir:east
+[top.cdie0.cbus_0] [info] que_0005 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:5  dir:north
+[top.cdie0.cbus_0] [info]      --------------- cycle 00080000 --------------- 
+[top.cdie0.cbus_0] [info] info for xp 0001 x01 y00
+[top.cdie0.cbus_0] [info] port_rx_0004 pps:    13316|            0 cnt
+[top.cdie0.cbus_0] [info] port_tx_0005 pps:    13316|            0 cnt
+[top.cdie0.cbus_0] [info] que_0000 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:0  dir:up
+[top.cdie0.cbus_0] [info] que_0001 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:1  dir:up
+[top.cdie0.cbus_0] [info] que_0002 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:2  dir:up
+[top.cdie0.cbus_0] [info] que_0003 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:3  dir:up
+[top.cdie0.cbus_0] [info] que_0004 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:4  dir:west
+[top.cdie0.cbus_0] [info] que_0005 depth: (      1|      0|      0.2)|(      1|      0|      0.2)  port:5  dir:east
+[top.cdie0.cbus_0] [info] que_0006 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:6  dir:north
+[top.cdie0.cbus_0] [info]      --------------- cycle 00080000 --------------- 
+[top.cdie0.cbus_0] [info] info for xp 0002 x00 y01
+[top.cdie0.cbus_0] [info] port_rx_0004 pps:    13316|            0 cnt
+[top.cdie0.cbus_0] [info] port_tx_0005 pps:    13316|            0 cnt
+[top.cdie0.cbus_0] [info] que_0000 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:0  dir:up
+[top.cdie0.cbus_0] [info] que_0001 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:1  dir:up
+[top.cdie0.cbus_0] [info] que_0002 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:2  dir:up
+[top.cdie0.cbus_0] [info] que_0003 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:3  dir:up
+[top.cdie0.cbus_0] [info] que_0004 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:4  dir:west
+[top.cdie0.cbus_0] [info] que_0005 depth: (      1|      0|      0.2)|(      1|      0|      0.2)  port:5  dir:east
+[top.cdie0.cbus_0] [info] que_0006 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:6  dir:north
+[top.cdie0.cbus_0] [info]      --------------- cycle 00080000 --------------- 
+[top.cdie0.cbus_0] [info] info for xp 0003 x01 y01
+[top.cdie0.cbus_0] [info] port_rx_0004 pps:    13316|            0 cnt
+[top.cdie0.cbus_0] [info] port_tx_0005 pps:    13316|            0 cnt
+[top.cdie0.cbus_0] [info] que_0000 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:0  dir:up
+[top.cdie0.cbus_0] [info] que_0001 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:1  dir:up
+[top.cdie0.cbus_0] [info] que_0002 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:2  dir:up
+[top.cdie0.cbus_0] [info] que_0003 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:3  dir:up
+[top.cdie0.cbus_0] [info] que_0004 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:4  dir:west
+[top.cdie0.cbus_0] [info] que_0005 depth: (      1|      0|      0.2)|(      1|      0|      0.2)  port:5  dir:east
+[top.cdie0.cbus_0] [info] que_0006 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:6  dir:north
+[top.cdie0.cbus_0] [info]      --------------- cycle 00080000 --------------- 
+[top.cdie0.cbus_0] [info] info for xp 0004 x00 y02
+[top.cdie0.cbus_0] [info] port_rx_0004 pps:    13316|            0 cnt
+[top.cdie0.cbus_0] [info] port_tx_0005 pps:    13316|            0 cnt
+[top.cdie0.cbus_0] [info] que_0000 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:0  dir:up
+[top.cdie0.cbus_0] [info] que_0001 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:1  dir:up
+[top.cdie0.cbus_0] [info] que_0002 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:2  dir:up
+[top.cdie0.cbus_0] [info] que_0003 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:3  dir:up
+[top.cdie0.cbus_0] [info] que_0004 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:4  dir:west
+[top.cdie0.cbus_0] [info] que_0005 depth: (      1|      0|      0.2)|(      1|      0|      0.2)  port:5  dir:east
+[top.cdie0.cbus_0] [info] que_0006 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:6  dir:north
+[top.cdie0.cbus_0] [info]      --------------- cycle 00080000 --------------- 
+[top.cdie0.cbus_0] [info] info for xp 0005 x01 y02
+[top.cdie0.cbus_0] [info] port_rx_0004 pps:    13316|            0 cnt
+[top.cdie0.cbus_0] [info] port_tx_0005 pps:    13316|            0 cnt
+[top.cdie0.cbus_0] [info] que_0000 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:0  dir:up
+[top.cdie0.cbus_0] [info] que_0001 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:1  dir:up
+[top.cdie0.cbus_0] [info] que_0002 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:2  dir:up
+[top.cdie0.cbus_0] [info] que_0003 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:3  dir:up
+[top.cdie0.cbus_0] [info] que_0004 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:4  dir:west
+[top.cdie0.cbus_0] [info] que_0005 depth: (      1|      0|      0.2)|(      1|      0|      0.2)  port:5  dir:east
+[top.cdie0.cbus_0] [info] que_0006 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:6  dir:north
+[top.cdie0.cbus_0] [info]      --------------- cycle 00080000 --------------- 
