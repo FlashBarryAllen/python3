@@ -74,6 +74,8 @@ def get_xp():
                 dir = result[1]
                 
                 if dir == "east":
+                    ws.cell(row=row_num, column=col_num + 1).value = 0
+                    ws.cell(row=row_num + 1, column=col_num + 1).value = 0
                     ws.cell(row=row_num, column=col_num + 1).alignment = alignment
                     ws.cell(row=row_num, column=col_num + 1).border = border
                     ws.cell(row=row_num, column=col_num + 2).value = "→"
@@ -83,6 +85,8 @@ def get_xp():
                     ws.cell(row=row_num + 1, column=col_num + 1).border = border
                 
                 if dir == "west":
+                    ws.cell(row=row_num + 1, column=col_num - 2).value = 0
+                    ws.cell(row=row_num, column=col_num - 2).value = 0
                     ws.cell(row=row_num + 1, column=col_num - 2).alignment = alignment
                     ws.cell(row=row_num + 1, column=col_num - 2).border = border
                     ws.cell(row=row_num + 1, column=col_num - 3).value = "←"
@@ -92,6 +96,8 @@ def get_xp():
                     ws.cell(row=row_num, column=col_num - 2).border = border
                 
                 if dir == "south":
+                    ws.cell(row=row_num + 2, column=col_num).value = 0
+                    ws.cell(row=row_num + 2, column=col_num  - 1).value = 0
                     ws.cell(row=row_num + 2, column=col_num).alignment = alignment
                     ws.cell(row=row_num + 2, column=col_num).border = border
                     ws.cell(row=row_num + 3, column=col_num).value = "↓"
@@ -101,6 +107,8 @@ def get_xp():
                     ws.cell(row=row_num + 2, column=col_num  - 1).border = border
                 
                 if dir == "north":
+                    ws.cell(row=row_num - 1, column=col_num - 1).value = 0
+                    ws.cell(row=row_num - 1, column=col_num).value = 0
                     ws.cell(row=row_num - 1, column=col_num - 1).alignment = alignment
                     ws.cell(row=row_num - 1, column=col_num - 1).border = border
                     ws.cell(row=row_num - 2, column=col_num - 1).value = "↑"
