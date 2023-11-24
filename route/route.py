@@ -1,6 +1,6 @@
 import re
 import openpyxl
-from openpyxl.styles import Font, PatternFill, Border, Side, colors
+from openpyxl.styles import Font, PatternFill, Border, Side
 
 font      = Font(color="FFFFFF")
 fill      = PatternFill(fill_type='solid', start_color='00000000')
