@@ -1,7 +1,7 @@
 [top.cdie0.cbus_0] [info] info for xp 0000 x00 y00
 [top.cdie0.cbus_0] [info] port_rx_0000 pps:    13317|            0 cnt
-[top.cdie0.cbus_0] [info] port_rx_0005 pps:    13317|            0 cnt
-[top.cdie0.cbus_0] [info] port_tx_0000 pps:    13317|            0 cnt
+[top.cdie0.cbus_0] [info] port_rx_0005 pps:    13307|            0 cnt
+[top.cdie0.cbus_0] [info] port_tx_0000 pps:    13307|            0 cnt
 [top.cdie0.cbus_0] [info] port_tx_0004 pps:    13317|            0 cnt
 [top.cdie0.cbus_0] [info] que_0000 depth: (      1|      0|      0.2)|(      1|      0|      0.2)  port:0  dir:up
 [top.cdie0.cbus_0] [info] que_0001 depth: (      0|      0|      0.0)|(      0|      0|      0.0)  port:1  dir:up
